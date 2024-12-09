@@ -100,4 +100,4 @@ function getLegalMoves(root, depth = 0, anc = []) {
   });
   return root;
 }
-knightMoves([0, 0], [1, 2]);
+knightMoves([3, 3], [7, 7]);
